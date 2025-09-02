@@ -1,5 +1,5 @@
 # Configuration file for data paths and settings
-DATA_PATH = 'rehabilitation_data.csv'  # Update with your actual file path
+DATA_PATH = 'Talent_Academy_Case_DT_2025.csv'  
 OUTPUT_PATH = 'cleaned_data.csv'
 
 # Column types
