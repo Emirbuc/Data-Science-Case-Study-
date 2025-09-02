@@ -1,9 +1,9 @@
 # Case Study Report: Physical Medicine & Rehabilitation Data Analysis
 
 ## Author Information
-**Name:** Your Name  
-**Surname:** Your Surname  
-**Email:** your.email@example.com  
+**Name:** Emir
+**Surname:** Buclulgan 
+**Email:** emirbucu@gmail.com
 **Date:** September 6, 2025
 
 ## Executive Summary
